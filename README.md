@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Github profile 👋
+Jari Aalto, Senior Lecturer, Tampere University of Applied Sciences (TUNI/TAMK), Finland
 <!--
 **jaalto-tamk/jaalto-tamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
